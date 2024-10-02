@@ -1,9 +1,9 @@
 import 'package:flutter/material.dart';
 import 'package:room_finder/ResetPasswordPage.dart';
 import 'package:room_finder/widgets/BottomNavigationBarMain.dart';
-import 'package:room_finder/widgets/SignUpBg.dart';
+import 'package:room_finder/widgets/Cards/SignUpBg.dart';
 import 'package:room_finder/widgets/SignUpTopBg.dart';
-import 'MainHomePage.dart';
+import 'DashboardScreens/MainHomePage.dart';
 
 class LoginPage extends StatefulWidget {
   const LoginPage({super.key});

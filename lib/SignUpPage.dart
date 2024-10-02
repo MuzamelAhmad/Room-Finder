@@ -1,9 +1,8 @@
 import 'package:flutter/material.dart';
 import 'package:room_finder/widgets/BottomNavigationBarMain.dart';
-import 'package:room_finder/widgets/SignUpBg.dart';
+import 'package:room_finder/widgets/Cards/SignUpBg.dart';
 import 'package:room_finder/widgets/SignUpTopBg.dart';
 
-import 'MainHomePage.dart';
 
 class SignUpPage extends StatefulWidget {
   const SignUpPage({super.key});

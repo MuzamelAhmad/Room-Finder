@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 
-import '../SearchPage.dart';
+import '../../DashboardScreens/SearchPage.dart';
 
 class SearchDetailForm extends StatelessWidget {
   const SearchDetailForm({super.key});

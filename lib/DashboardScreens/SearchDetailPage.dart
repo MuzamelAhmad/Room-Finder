@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:room_finder/widgets/GridView.dart';
 import 'package:room_finder/widgets/MainAllBg.dart';
-import 'package:room_finder/widgets/SearchDetailForm.dart';
+import 'package:room_finder/widgets/Cards/SearchDetailForm.dart';
 import 'package:room_finder/widgets/SignUpTopBg.dart';
 
 

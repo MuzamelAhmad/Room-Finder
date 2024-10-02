@@ -1,9 +1,9 @@
 import 'package:flutter/material.dart';
-import 'package:room_finder/MainHomePage.dart';
-import 'package:room_finder/SearchDetailPage.dart';
+import 'package:room_finder/DashboardScreens/MainHomePage.dart';
+import 'package:room_finder/DashboardScreens/SearchDetailPage.dart';
 
-import '../Profile.dart';
-import '../Setting.dart';
+import '../DashboardScreens/Profile.dart';
+import '../DashboardScreens/Setting.dart';
 
 class BottomNavigationBarMain extends StatefulWidget {
   const BottomNavigationBarMain({super.key});

@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:intl_phone_field/intl_phone_field.dart';
 
-import '../LoginPage.dart';
+import '../../LoginPage.dart';
 
 class phoneCard extends StatelessWidget {
   const phoneCard({super.key});
@@ -31,7 +31,7 @@ class phoneCard extends StatelessWidget {
               children: [
                 const Text("Mobile Number",style: TextStyle(fontSize: 25,fontWeight: FontWeight.bold , color: Colors.black),),
                 const SizedBox(height: 10,),
-                const Text("Please enter your phone number. We wil send you 4-digit Code to verify your account.",style: TextStyle(fontSize: 14,fontWeight: FontWeight.bold,color: Colors.black),),
+                const Text("Please enter your phone number. We wil send you 4-digit Code to verify your account.",textAlign: TextAlign.center,style: TextStyle(fontSize: 14,fontWeight: FontWeight.bold,color: Colors.black),),
                 const SizedBox(
                   height: 10,
                 ),
