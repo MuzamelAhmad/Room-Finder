@@ -6,7 +6,7 @@ class ListViewWidget extends StatelessWidget {
   final List<Map<String , dynamic>> grlMap = [
     {
       "title": "1 BHK at Lalitpur",
-      "icon":"fhk",
+      "icon":"Icons.not_accessible_rounded",
       "avail" : "Available",
       "Rate": "RS.8000 /",
       "time":"per month",
