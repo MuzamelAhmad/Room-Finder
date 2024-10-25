@@ -8,12 +8,12 @@ class SearchDetailForm extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return Positioned(
-      top: 200,
+      top: 180,
       left: 10,
       right: 10,
       child: Container(
         width: 400,
-        height: 300,
+        height: 320,
         decoration: const BoxDecoration(
           boxShadow: [
             BoxShadow(
