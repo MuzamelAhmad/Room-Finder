@@ -1,5 +1,7 @@
 import 'package:flutter/material.dart';
 
+import '../widgets/ListViewWidget.dart';
+
 class Setting extends StatefulWidget {
   const Setting({super.key});
 
@@ -16,7 +18,7 @@ class _SettingState extends State<Setting> {
         width: double.infinity,
         height: double.infinity,
         color: Colors.blue,
-        child: const Icon(Icons.settings,color: Colors.deepOrange, size: 50,),
+
       ),
     );
   }
